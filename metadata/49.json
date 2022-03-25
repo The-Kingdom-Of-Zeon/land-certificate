@@ -1,0 +1,16 @@
+
+{
+  "name": "Zeon World LAND Certificate #49",
+  "description": "Zeon.world metaverse city of Los Angeles NFT land collection",
+  "image": "https://meta.zeon.world/metadata/49.jpg",
+  "dna": "0049002951d",
+  "edition": 1,
+  "date": 1648159076636,
+  "attributes": [
+    {
+      "trait_type": "Land",
+      "value": "Plot #49"
+    }
+  ],
+  "compiler": "Zeon World Engine"
+}
